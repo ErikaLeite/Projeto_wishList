@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ksAyfL9UqjKphjjHjJ0DbvbbRLV9gvkfb3PPKVbEKbuFs3d3v7qRKF3F01NFnVeICwmwOIamebUhj1IIIcAWow==",
+  "dgSpecHash": "AG4bZO3+afWI33z5rvOkkr61Y5kLfRcKqPJijaNpW1w2b24LHZSj+Y1if6l5DGe0rtZZ3mWSlCdCMPlXyKq97w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erika\\Desktop\\whishListG5\\whishListG5\\whishListG5.csproj",
+  "projectFilePath": "C:\\Users\\erika\\Desktop\\PROJETOS SENAI\\Semestre_02\\Sprint04 - Front-End\\Projeto_wishList\\03.Back-End\\whishListG5\\whishListG5\\whishListG5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erika\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erika\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",

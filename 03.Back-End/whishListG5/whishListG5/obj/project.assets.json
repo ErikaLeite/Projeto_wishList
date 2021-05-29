@@ -7526,11 +7526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erika\\Desktop\\whishListG5\\whishListG5\\whishListG5.csproj",
+      "projectUniqueName": "C:\\Users\\erika\\Desktop\\PROJETOS SENAI\\Semestre_02\\Sprint04 - Front-End\\Projeto_wishList\\03.Back-End\\whishListG5\\whishListG5\\whishListG5.csproj",
       "projectName": "whishListG5",
-      "projectPath": "C:\\Users\\erika\\Desktop\\whishListG5\\whishListG5\\whishListG5.csproj",
+      "projectPath": "C:\\Users\\erika\\Desktop\\PROJETOS SENAI\\Semestre_02\\Sprint04 - Front-End\\Projeto_wishList\\03.Back-End\\whishListG5\\whishListG5\\whishListG5.csproj",
       "packagesPath": "C:\\Users\\erika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erika\\Desktop\\whishListG5\\whishListG5\\obj\\",
+      "outputPath": "C:\\Users\\erika\\Desktop\\PROJETOS SENAI\\Semestre_02\\Sprint04 - Front-End\\Projeto_wishList\\03.Back-End\\whishListG5\\whishListG5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erika\\AppData\\Roaming\\NuGet\\NuGet.Config",

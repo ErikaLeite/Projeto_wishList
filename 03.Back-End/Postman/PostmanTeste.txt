@@ -1,1 +1,0 @@
-Adicionar aqui todos as requisições exportadas do Postman
