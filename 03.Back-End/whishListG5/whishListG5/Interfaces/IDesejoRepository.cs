@@ -43,13 +43,6 @@ namespace whishListG5.Interfaces
             /// </summary>
             /// <param name="id">id do desejo a ser deletado</param>
             void Deletar(int id);
-
-            /// <summary>
-            /// Listar todos os desejos com quem os desejou
-            /// </summary>
-            /// <returns>lista desejos e quem os desejou</returns>
-            List<Desejo> ListarDesejos();
-
     }
 }
 

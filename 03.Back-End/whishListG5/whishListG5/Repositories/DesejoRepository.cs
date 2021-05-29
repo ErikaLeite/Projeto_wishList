@@ -58,16 +58,7 @@ namespace whishListG5.Repositories
 
         public List<Desejo> Listar()
         {
-            return ctx.Desejos.ToList();
-        }
-
-        /// <summary>
-        /// Método que utilizaremos para a listagem de todos os desejos e seus respectivos idealizadores!!!
-        /// </summary>
-        /// <returns>retorna uma lista de desejo e os ids dos usuarios</returns>
-        public List<Desejo> ListarDesejos()
-        {
-            return ctx.Desejos.Include(d => d.IdUsuario).ToList();
+            throw new NotImplementedException();
         }
     }
 }

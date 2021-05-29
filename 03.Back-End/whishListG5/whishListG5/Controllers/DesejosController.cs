@@ -93,23 +93,7 @@ namespace whishListG5.Controllers
             }
         }
 
-        /*[HttpGet("meus")]
-        public IActionResult GetMy()
-        {
-            try
-            {
-                _desejoRepository. = Convert.ToInt32();
-
-                return Ok(_desejoRepository.ListarDesejos(idUsuario))
-
-            }
-            catch (Exception erro)
-            {
-
-                return BadRequest(erro);
-            }
-        }*/
-
+       
 
     }
 }

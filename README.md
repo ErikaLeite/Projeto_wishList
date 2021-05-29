@@ -11,3 +11,8 @@ O design foi pensado de maneira simples e objetiva, porém com uma aparência ma
 A modelagem do banco de dados foi desenvolvida de acordo com o MVP da atividade. Nele possuímos duas entidades, são elas 'Usuário' e 'Desejo'.
 Na entidade Usuário temos como atributos o 'id', 'nome', 'email' e 'senha', mesmo não sendo o foco da atividade criar tokens para gerenciar qual usuário está logado, é importante para entendimento do projeto como um todo.
 Na entidade 'desejo' os atributos são 'id', 'idusuário' e 'desejo', onde é necessário a identificação de quem é o usuário que registrou tal desejo. Desta maneira, temos uma ligação 1:N, ou seja, um usuário pode possuir muitos desejos, mas o desejo possui apenas um usuário.
+
+# BACK-END
+Desenvolvido com o uso das tecnologias C# e ASP.NET Core e Entity Framework.
+
+# FRONT-END
